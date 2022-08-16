@@ -10,7 +10,7 @@ The following repositories are now private:
 Apologies for any inconvenience caused.
 
 Please, contact me on 
-https://uk.linkedin.com/in/lucabriguglia if you have any queries.
+https://uk.linkedin.com/in/lucabriguglia for any queries.
 
 <!--
 **lucabriguglia/lucabriguglia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
