@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+**Atles**, **OpenCQRS**, **Cledev** and **Weapsy** repositories have been made private.
+
+Apologies for any inconvenience caused.
+
 <!--
 **lucabriguglia/lucabriguglia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
