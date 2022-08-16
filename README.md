@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Atles** (195✨) **OpenCQRS** (681✨), **Cledev** (3✨) and **Weapsy** (754✨) repositories have been made private.
+The following repositories have been made private: **Atles** (195✨) **OpenCQRS** (681✨), **Cledev** (3✨), and **Weapsy** (754✨).
 
 Apologies for any inconvenience caused.
 
