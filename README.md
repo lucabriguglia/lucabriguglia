@@ -2,10 +2,10 @@
 
 The following repositories are now private:
 
-- **Atles** (195✨)
-- **OpenCQRS** (681✨)
-- **Cledev** (3✨)
-- **Weapsy** (754✨)
+- **Atles** (195✨) Blazor Forum
+- **OpenCQRS** (681✨) CQRS and Event Sourcing
+- **Cledev** (3✨) .NET Utilities
+- **Weapsy** (754✨) ASP.NET Core CMS
 
 Apologies for any inconvenience caused.
 
