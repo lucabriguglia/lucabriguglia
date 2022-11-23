@@ -7,7 +7,7 @@ The following repositories are now private:
 - **Cledev** (3✨) .NET Utilities
 - **Weapsy** (754✨) ASP.NET Core CMS
 
-Apologies for any inconvenience caused.
+Apologies for any inconvenience.
 
 Please, contact me on [LinkedIn](https://uk.linkedin.com/in/lucabriguglia) for any queries.
 
