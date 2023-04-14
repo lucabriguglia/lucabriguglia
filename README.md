@@ -1,15 +1,5 @@
 ### Hi there 👋
 
-The following repositories are now private:
-
-- **Atles** (195✨) Blazor Forum
-- **OpenCQRS** (681✨) CQRS and Event Sourcing
-- **Weapsy** (754✨) ASP.NET Core CMS
-
-Apologies for any inconvenience.
-
-Please, contact me on [LinkedIn](https://uk.linkedin.com/in/lucabriguglia) for any queries.
-
 <!--
 **lucabriguglia/lucabriguglia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
